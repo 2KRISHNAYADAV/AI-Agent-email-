@@ -49,21 +49,10 @@ Your Google Sheet must have:
 
 ---
 
-## 📂 Download Resources
 
-| File                  | Description                        | Link         |
-| --------------------- | ---------------------------------- | ------------ |
-| Workflow JSON (Gmail) | Complete workflow using Gmail node | **Download** |
-| Workflow JSON (SMTP)  | Complete workflow using SMTP node  | **Download** |
-| Leads Sheet           | Sample Google Sheet with leads     | **Download** |
+##   JavaScript Snippets Used
 
-> After downloading, import the JSON inside n8n using **Import Workflow**.
-
----
-
-## 🔧 JavaScript Snippets Used
-
-### **1️⃣ Pick Random Template (JavaScript Node)**
+### **  Pick Random Template (JavaScript Node)**
 
 ```js
 // Get templates from previous node
